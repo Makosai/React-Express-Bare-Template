@@ -1,0 +1,4 @@
+{
+  "watch": ["./lib"],
+  "ignore": ["./lib/client"]
+}
